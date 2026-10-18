@@ -1,0 +1,6 @@
+{
+  "name": "Daire Alanı ve Çevre Hesaplayıcı - Enes Öztürk",
+  "description": "Java ile dairenin alanını, çevresini ve merkez açılı daire dilimi alanını hesaplayan program, görsel simülasyon ve kaynak kodları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
